@@ -1,0 +1,7 @@
+https://nodejs.org/es/download/current/
+
+npm init
+
+npm install cypress --save-dev
+
+npx cypress open
